@@ -2,6 +2,7 @@
 
 WoWClassic Addon to filter the recipes of professions
 
+This is a fork of https://github.com/Sigma88/Sigma-ProfessionFilter, I just wanted to fix the addon since I liked it and it has not gotten love in over 4 years. If original creator does not want this up just message and let me know.
 
 ## Changelog
 
